@@ -192,7 +192,6 @@ body, html {
     margin:15px;
   }
 
-/* page 2 roaa almadi*/
 .page2-img {
     height: 165px !important;
     width: 100%;
@@ -270,6 +269,9 @@ button:hover {
     grid-column: 1/5;
     background-color: #3B5999;
 }
+
+  .pad-left {justify-left}
+  .pad-right {justify-right}
 
 .nav {
     padding-right: 50px;
