@@ -156,6 +156,7 @@ button:hover {
 }
 
 .Companies {
+    padding-left: 15%;
     display: flex;
     align-items: center;
     align-content: space-around;
@@ -165,9 +166,6 @@ button:hover {
   }
 
 .Co-menu {
-    padding-left: 5%;
-    display: flex;
-    justify-content: flex-end;
   }
 
 .nav-button {
