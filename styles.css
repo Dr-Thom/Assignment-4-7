@@ -89,8 +89,9 @@ body, html {
     text-decoration: none;
 }
 /* End of Text and Background colors*/
+
 button:hover {
-    background-color: lightgray;
+    background-color: blue;
     color: #1D212C;
     border-color: #1D212C;
 }
@@ -105,13 +106,6 @@ button:hover {
     grid-row: 6;
     grid-column: 1/5;
     border: none;
-}
-
-.btn-get-started {
-  grid-column: 1/5;
-  grid-row: 5;
-  justify-content: center;
-  align-self: start;
 }
 
 .topbar {
@@ -143,16 +137,6 @@ button:hover {
         width: 75%;
         display: flex;
         align-content: flex-end;
-}
-
-.btn-logo {
-    background-color: #3B5999;
-    border-style: solid;
-    border-width: thin;
-    border-radius: 5px;
-    width: 25px;
-    height: 25px;
-    margin-left: 20px;
 }
 
 .Companies {
@@ -190,7 +174,7 @@ button:hover {
 
 .img {
 height: 200%;
-width: 100%;
+width: 85%;
 }
 
 .margin-sml {
