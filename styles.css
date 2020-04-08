@@ -242,6 +242,26 @@ button:hover {
     padding-left: 5%;
 }
 
+.Companies {
+    display: flex;
+    align-items: flex-end;
+    grid-column: 1/4;
+    grid-row: 6;
+    background-color: white;
+    padding-top: 20px;
+}
+
+.Co-menu {
+    padding-left: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-button {
+    background-color: white;
+    border-style: none;
+    width: auto;
+}
 .nav-button {
     background-color: white;
     border-style: none;
