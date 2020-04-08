@@ -206,7 +206,8 @@ button:hover {
   }
 
 .nav-menu {
-    padding-right: 150px;
+    padding-right: 20px;
+    padding-left: 5%;
 }
 
 .Text {height: 200px;
@@ -238,24 +239,22 @@ button:hover {
     padding-top: 20px;
 }
 
-.nav-menu {
-    padding-left: 5%;
-}
-
 .Companies {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
+    align-content: space-around;
     grid-column: 1/4;
     grid-row: 6;
     background-color: white;
-    padding-top: 20px;
-}
+    padding-top: 175px;
+    padding-right: 50px;
+  }
 
 .Co-menu {
     padding-left: 5%;
     display: flex;
     justify-content: flex-end;
-}
+  }
 
 .nav-button {
     background-color: white;
