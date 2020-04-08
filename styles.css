@@ -192,18 +192,9 @@ button:hover {
     display: flex;
     justify-content: center;
     text-align: center;
-    grid-column: 1/4;
+    grid-column: 1/5;
     background-color: white;
-    padding-left: 100px;
-}
-
-.h1 {
-display: flex;
-justify-content: center;
-text-align: center;
-grid-column: 1/4;
-background-color: white;
-padding-left: 100px;
+    padding-left: 500px;
 }
 
 .image {height: 500px;
