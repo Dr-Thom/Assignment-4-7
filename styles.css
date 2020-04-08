@@ -194,6 +194,16 @@ button:hover {
     text-align: center;
     grid-column: 1/4;
     background-color: white;
+    padding-left: 100px;
+}
+
+.h1 {
+display: flex;
+justify-content: center;
+text-align: center;
+grid-column: 1/4;
+background-color: white;
+padding-left: 100px;
 }
 
 .image {height: 500px;
@@ -206,7 +216,7 @@ button:hover {
   }
 
 .nav-menu {
-    padding-right: 20px;
+    padding-right: 50px;
     padding-left: 5%;
 }
 
